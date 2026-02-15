@@ -40,4 +40,6 @@ button {
   background-color: rgb(0, 0, 0);
   color: white;
   position: absolute;
+  transition: 0.5s;
+
 }
