@@ -18,6 +18,8 @@ yesBtn.addEventListener("click", function () {
       align-items:center;
       background:;
       color:rouge;
+        texte-alighn : center;
+      padding:20px;
     ">
       <h1> waaaaayyyyyyyyyyyyyyyyyyyy </h1>
       <video width="50%" controls autoplay>
@@ -25,4 +27,5 @@ yesBtn.addEventListener("click", function () {
       </video>
     </div>
   `;
+
 });
